@@ -55,5 +55,6 @@
     예: `Coroutine attackCo;`
 
   ![고양이 사진](go.png)
-  [Main](munsung143.github.io)
+  [Main](..)
+
 
